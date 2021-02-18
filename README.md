@@ -1,7 +1,5 @@
 This repository contains the code which replicates "[Which Workers Bear the Burden of Social Distancing?](Mongey_Pilossoph_Weinberg_Social_Distancing_Feb_2021.pdf)" by Simon Mongey, Laura Pilossoph, and Alex Weinberg. 
 
-This replication package downloads the data available online and reproduces the results available in our paper.
-
 ## Work-from-home measures
 
 The following data on occupation work-from-home ability and physical-proximity may be useful for your research.
