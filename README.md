@@ -38,30 +38,30 @@ Raw data is available in the `Raw Data` folder. Subfolders indicate the source o
 The code which replicates our paper is available in the `Do` folder. 
 The following scripts clean the ONET and OES data and create our social-distancing exposure measures.
 
-1. clean_ONET.do
-2. clean_OES.do
-3. construct_exposure_measures.do
+1. `clean_ONET.do`
+2. `clean_OES.do`
+3. `construct_exposure_measures.do`
 
 The following scripts clean the worker data. The clean data is saved in `Data`. 
 
-4. essential_occupations.do
-5. clean_PSID.do
-6. clean_CPS.do
-7. clean_ATUS.do
+4. `essential_occupations.do`
+5. `clean_PSID.do`
+6. `clean_CPS.do`
+7. `clean_ATUS.do`
 
 The following scripts create the figures in the body of the paper and the appendix. The figures are saved in the `Figures` folder.
 
-- fig1.do
-- fig2.do
-- fig3.do
-- fig4.do 
-- fig5.do 
-- fig6.do 
+- `fig1.do`
+- `fig2.do`
+- `fig3.do`
+- `fig4.do`
+- `fig5.do`
+- `fig6.do` 
 
-- figB1.do 
-- figB2.do 
-- figB3.do 
-- figB4.do
+- `figB1.do`
+- `figB2.do`
+- `figB3.do` 
+- `figB4.do`
 
 The following scripts create the tables in the body of the paper and the appendix. The tables are saved in the `Tables` folder.
 
